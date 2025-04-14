@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="gameImg" type="id" />
+    <item name="gameName" type="id" />
+    <item name="gameStudio" type="id" />
+    <item name="favorites" type="id" />
+    <item name="comments" type="id" />
+    <item name="gameBg" type="id" />
+    <item name="gameDesc" type="id" />
+</resources>
